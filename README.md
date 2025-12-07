@@ -1,0 +1,1 @@
+### some exercises to warmup with rust
